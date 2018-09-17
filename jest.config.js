@@ -1,3 +1,5 @@
+const {signIn} = require('./core/pages/LoginPage');
+
 module.exports = {
     "testURL": "http://localhost/",
     setupTestFrameworkScriptFile: './core/setup/browser.js',
@@ -5,5 +7,4 @@ module.exports = {
         browser: null,
         page: null,
     },
-    testMatch: ['**/testscripts/**/*test.js'],
 };
