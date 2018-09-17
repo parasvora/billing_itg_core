@@ -1,6 +1,6 @@
 {
   "name": "billing_itg_core",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": false,
   "scripts": {
     "test": "jest"
