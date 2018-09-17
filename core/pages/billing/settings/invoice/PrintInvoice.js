@@ -3,7 +3,7 @@
  */
 
 async function clickDefaultInvoice(){
-    await page.click("//div[text()='Default Template']");
+    alert('Hello clickDefaultInvoice');
 }
 
 module.exports = { clickDefaultInvoice };

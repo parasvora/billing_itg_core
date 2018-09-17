@@ -1,11 +1,11 @@
 const path = require('path');
 
 const config = {
-    entry: './jest.config.js',
+    entry: './index.js',
     mode : "development",
     output: {
         path: path.resolve(__dirname, 'build'),
-        filename: "index.js"
+        filename: "bundle.js"
     }
 
 }
