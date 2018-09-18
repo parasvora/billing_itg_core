@@ -55,3 +55,4 @@ jest.config.js
 .gitignore
 billing_itg_core.iml
 trace.json
+jest.config.js
