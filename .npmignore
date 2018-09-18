@@ -34,7 +34,6 @@ XMLreport
 .idea
 *~
 
-node_modules
 core
 package-lock.json
 puppeteer-demo.iml
