@@ -1,6 +1,6 @@
 {
   "name": "billing_itg_core",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "private": false,
   "main": "jest.config.js",
   "mode": "development",
