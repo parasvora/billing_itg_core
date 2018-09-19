@@ -1,8 +1,7 @@
 {
   "name": "billing_itg_core",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "private": false,
-  "main": "jest.config.js",
   "mode": "development",
   "scripts": {
     "test": "jest"
