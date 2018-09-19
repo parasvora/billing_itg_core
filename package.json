@@ -1,6 +1,6 @@
 {
   "name": "billing_itg_core",
-  "version": "0.0.11",
+  "version": "0.0.13",
   "private": false,
   "main": "index.js",
   "mode": "development",
