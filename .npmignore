@@ -34,12 +34,8 @@ XMLreport
 .idea
 *~
 
-core
 package-lock.json
 puppeteer-demo.iml
 puppeteer_demo.iml
-webpack.config.js
-jest.config.js
 .gitignore
 billing_itg_core.iml
-trace.json

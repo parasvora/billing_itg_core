@@ -1,20 +1,17 @@
 {
   "name": "billing_itg_core",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "private": false,
   "main": "jest.config.js",
   "mode": "development",
   "scripts": {
-    "test": "jest",
-    "build": "webpack --config webpack.config.js"
+    "test": "jest"
   },
   "devDependencies": {
     "file-system": "^2.2.2",
     "jest": "^23.4.1",
     "pending-xhr-puppeteer": "^1.0.13",
-    "puppeteer": "^1.6.1",
-    "webpack": "^4.19.0",
-    "webpack-cli": "^3.1.0"
+    "puppeteer": "^1.6.1"
   },
   "dependencies": {},
   "author": "paras.vora",
