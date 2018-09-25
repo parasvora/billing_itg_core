@@ -1,8 +1,7 @@
-/*
 const signIn = require ('./core/pages/jenkins/LoginPage')
+module.exports = signIn;
 
-module.exports = signIn;*/
-
-module.exports = {
+/*module.exports = {
+#Jai Approach
     signIn: require('./core/pages/jenkins/LoginPage')
-};
+};*/
